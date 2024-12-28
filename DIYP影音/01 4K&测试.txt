@@ -1,0 +1,47 @@
+高清风景,http://185.57.68.33:8091/232/playlist.m3u8
+法国时尚,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+世界时尚,http://94.228.204.166:8000/play/0089
+时尚TV 4kphttp://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283290&extension=ts&play_token=ANc6neJCos
+FashionBox HDhttp://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
+爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然,http://95.67.12.82:9098/
+MS Young Bloodhttp://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/16147/index.m3u8
+RMC,https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
+kino,http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+Movies,https://dqvu8d0acm4xt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/212de77e-d899-46c9-b22e-0936684c8f14/3.m3u8
+CS history,https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+CH35,http://181.78.64.71:16123/play/ch35
+CCTV3 4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+动作电影,http://51.83.238.223:16703/
+韩国劲片http://a23.iptv11.com/977/video.m3u8?token=95C80E0B63D1B
+韩国劲片http://serv7.iptv11.com/977/video.m3u8?token=95C80E0B63D1B
+http://204.199.120.34:16123/play/ch50
+3,http://88.135.128.20:7272/Tujrl3B6ZZcnOYY
+FilmZone EE,http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
+Moviebox,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+CINEMAX,http://64.31.40.14:14031
+NTV,http://109.239.138.241:8000/ntvnn
+E!,http://dns.acaidopara.net:8080/domingas001/s5fk2kvbts/1588
+Premium Action,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10072
+FASHIONTV HDhttp://main.xplus2-main.xyz:2082/xplus-2-W20pTJnEIu/tYOwRMIuwy/878
+axnblackhttps://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
+freehttps://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+FilmBoxExtra,https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
+Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
+Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
+SONYSABhttp://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
+AMC HD,https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+Pop Max,https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+rudaw,https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv/chunks.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+半島電視台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+
+SONY Movies,http://45.5.119.155:8090/play/a0gx/index.m3u8
+MM UFO HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/13017/index.m3u8

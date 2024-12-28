@@ -1,0 +1,74 @@
+AE Mundo,http://200.37.187.210:8460/play/a019
+ATV,http://200.37.187.210:8460/play/a023
+AXN,http://200.37.187.210:8460/play/a01m
+America TV PY,http://200.37.187.210:8460/play/a028
+AmericaTV,http://200.37.187.210:8460/play/a021
+Animal Planet,http://200.37.187.210:8460/play/a011
+BabyFirst,http://200.37.187.210:8460/play/a00w
+CNN Chile,http://200.37.187.210:8460/play/a00m
+CNN Espanol,http://200.37.187.210:8460/play/a002
+Canal Estrellas,http://200.37.187.210:8460/play/a01c
+Cartoon Network,http://200.37.187.210:8460/play/a00p
+Cine Mexicano,http://200.37.187.210:8460/play/a047
+Cinecanal,http://200.37.187.210:8460/play/a00h
+Cinemax,http://200.37.187.210:8460/play/a01k
+Discovery Channel,http://200.37.187.210:8460/play/a010
+Discovery ID,http://200.37.187.210:8460/play/a01v
+Discovery Kids,http://200.37.187.210:8460/play/a001
+Discovery Turbo,http://200.37.187.210:8460/play/a01q
+Disney Channel,http://200.37.187.210:8460/play/a00z
+Disney Jr,http://200.37.187.210:8460/play/a01g
+E Entertainment,http://200.37.187.210:8460/play/a013
+ESPN,http://200.37.187.210:8460/play/a016
+ESPN 2,http://200.37.187.210:8460/play/a00c
+ESPN 2 Latin,http://200.37.187.210:8460/play/a015
+ESPN 3,http://200.37.187.210:8460/play/a01s
+ESPN 4,http://200.37.187.210:8460/play/a024
+ESPN CO,http://200.37.187.210:8460/play/a042
+ESPN CO,http://200.37.187.210:8460/play/a01i
+EWTN,http://200.37.187.210:8460/play/a03p
+Enlace,http://200.37.187.210:8460/play/a00u
+Esne TV,http://200.37.187.210:8460/play/a01r
+FX,http://200.37.187.210:8460/play/a01o
+Fox Sports 2,http://200.37.187.210:8460/play/a01d
+Fox Sports 3,http://200.37.187.210:8460/play/a01e
+France 24,http://200.37.187.210:8460/play/a01w
+HBO,http://200.37.187.210:8460/play/a01j
+HBO 2,http://200.37.187.210:8460/play/a005
+HBO Family,http://200.37.187.210:8460/play/a008
+HBO Plus,http://200.37.187.210:8460/play/a006
+HBO XTREME SD,http://200.37.187.210:8460/play/a03a
+History Channel,http://200.37.187.210:8460/play/a00g
+HomeandHealth,http://200.37.187.210:8460/play/a03k
+I-Sat,http://200.37.187.210:8460/play/a00j
+Latina,http://200.37.187.210:8460/play/a020
+Lifetime,http://200.37.187.210:8460/play/a00x
+Liga 1 Max,http://200.37.187.210:8460/play/a045
+MTV,http://200.37.187.210:8460/play/a00k
+Nat Geo,http://200.37.187.210:8460/play/a00f
+Nick Jr,http://200.37.187.210:8460/play/a01p
+Nickelodeon,http://200.37.187.210:8460/play/a00e
+Panamericana TV,http://200.37.187.210:8460/play/a022
+RCN Novelas,http://200.37.187.210:8460/play/a01u
+STAR CHANNEL,http://200.37.187.210:8460/play/a00n
+Sin Limites,http://200.37.187.210:8460/play/a027
+Sony,http://200.37.187.210:8460/play/a01l
+Space,http://200.37.187.210:8460/play/a01n
+Studio Universal,http://200.37.187.210:8460/play/a00b
+Studio Universal (clone),http://200.37.187.210:8460/play/a048
+SyFy,http://200.37.187.210:8460/play/a00y
+TCM,http://200.37.187.210:8460/play/a00o
+TLC,http://200.37.187.210:8460/play/a01a
+TNT,http://200.37.187.210:8460/play/a00q
+TNT Novelas,http://200.37.187.210:8460/play/a01y
+TV Agro,http://200.37.187.210:8460/play/a046
+TV Peru,http://200.37.187.210:8460/play/a025
+TV+,http://200.37.187.210:8460/play/a03q
+TVE,http://200.37.187.210:8460/play/a00v
+Telemundo,http://200.37.187.210:8460/play/a01f
+TyC,http://200.37.187.210:8460/play/a017
+Universal,http://200.37.187.210:8460/play/a00i
+ViaX,http://200.37.187.210:8460/play/a01b
+WILLAX,http://200.37.187.210:8460/play/a01z
+Warner,http://200.37.187.210:8460/play/a012
+Zona Latina,http://200.37.187.210:8460/play/a00l

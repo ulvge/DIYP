@@ -1,0 +1,151 @@
+ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+Pictures HD,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+Star  Gold Trills,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:7b:e6:05&stream=155996&extension=m3u8&play_token=3S9Q0CWILY
+Star Plus HD,http://103.131.214.129:9985/stream/channelid/57795880?ticket=98B271B78B2ECC30744125ABB65D55649B317CFD&profile=pass
+Colors HD,http://103.131.214.129:9985/stream/channelid/1324610634?ticket=851442FF55763D646EDE031DDE42D70D44A7B201&profile=pass
+ZEE TV HD,http://103.131.214.129:9985/stream/channelid/304995171?ticket=59D7F68F455A2D1757609019AFE69529BF6A7C8E&profile=pass
+& Pictures HD,http://103.131.214.129:9985/stream/channelid/528483227?ticket=5CEDDEE3E2C5469F9BBA6C688F8D0C1208ED29D0&profile=pass
+STAR BHARAT HD,http://103.131.214.129:9985/stream/channelid/1092712846?ticket=956226CC04BB0FB68269F74C1232966D07C35D5B&profile=pass
+SONY MAX HD,http://103.131.214.129:9985/stream/channelid/359037954?ticket=C90C3F2F34C052EC4FC778B4A9E2D6E3B8015B8C&profile=pass
+ZEE CINEMA HD,http://103.131.214.129:9985/stream/channelid/844863254?ticket=C8A207DD88B153BE007E77E5E4FA0FCB2C3D451A&profile=pass
+Star GOLD HD,http://103.131.214.129:9985/stream/channelid/1040456652?ticket=35223F424B66C8AA908A3DFCED6BDEE9CE5A251B&profile=pass
+Star Gold Sel HD,http://103.131.214.129:9985/stream/channelid/943167830?ticket=858708E2DA3E9B0108ED7AF15D45CA7B0FDE77FE&profile=pass
+Zoom TV,http://103.131.214.129:9985/stream/channelid/1204457011?ticket=
+Venus HD,http://103.131.214.129:9985/stream/channelid/1757464185?ticket=
+MBC Bollywood,http://103.131.214.129:9985/stream/channelid/1422827965?ticket=
+MBC Max,http://103.131.214.129:9985/stream/channelid/822711736?ticket=E9A0739BA094AABDB7079EA7BAAFD6C34BADCDF8&profile=pass
+GEM FILM,http://103.131.214.129:9985/stream/channelid/1834383944?ticket=
+Dangal TV,http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
+Dangal TV 2,http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+Epic Tv,https://epiconvh.s.llnwi.net/epic/master.m3u8
+Nazara,https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
+DD National,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+ZEE ANMOL,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+And tv hd,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+ZEE HINDUSTAN,https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+TV 9 BHARATVARSH,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+Star JALSHA,http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+Televista TV,https://viewmedia-hls-8.unreel.me/live_109/SD/live109_1/low/playlist.m3u8
+Colors HD,http://119.156.26.155:8000/play/a06w
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+colors INFINITY HD,http://119.156.26.155:8000/play/a07h
+PRIVE HD,http://119.156.26.155:8000/play/a07j
+flix HD,http://119.156.26.155:8000/play/a06x
+ZEE BOLLYWOOD,http://119.156.26.155:8000/play/a07q
+UTV ACTION,http://119.156.26.155:8000/play/a07o
+UTV MOVIES,http://119.156.26.155:8000/play/a07n
+Star Plus HD,http://119.156.26.155:8000/play/a06u
+SONY MAX 2,http://119.156.26.155:8000/play/a07r
+Pogo,http://119.156.26.155:8000/play/a05z
+MOVIE NOW,http://119.156.26.155:8000/play/a066
+Rotana HD+,https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+Rotana HD+,https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
+Rotana HD+,https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
+Rotana HD+,https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_5.m3u8
+Rotana HD+,https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_6.m3u8
+Rotana,https://al-ekhbaria-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+Rotana,https://al-ekhbaria-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_3.m3u8
+Star Gold SELECT,http://180.178.188.152:8000/play/a014
+And Pictures hd,http://180.178.188.152:8000/play/a017
+STAR GLD 2,http://180.178.188.152:8000/play/a01q
+Discovery Kids India,http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945938&extension=ts&play_token=2OlvHSXwMu
+Disney Channel India,http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
+24News,http://89.187.177.137/24News/index.m3u8?token=test
+asianet_news,http://89.187.177.137/asianet_news/index.m3u8?token=test
+b4u_aflam,http://89.187.177.137/b4u_aflam/index.m3u8?token=test
+BBC_WORLD_ENG,http://89.187.177.137/BBC_WORLD_ENG/index.m3u8?token=test
+bharat_samachar,http://89.187.177.137/bharat_samachar/index.m3u8?token=test
+CNBCHD,http://89.187.177.137/CNBCHD/index.m3u8?token=test
+ddnews,http://89.187.177.137/ddnews/index.m3u8?token=test
+E24-Hin,http://89.187.177.137/E24-Hin/index.m3u8?token=test
+ETNOW,http://89.187.177.137/ETNOW/index.m3u8?token=test
+hindi_khabar,http://89.187.177.137/hindi_khabar/index.m3u8?token=test
+LIVINGFOODZ,http://89.187.177.137/LIVINGFOODZ/index.m3u8?token=test
+NDTV24x7,http://89.187.177.137/NDTV24x7/index.m3u8?token=test
+NDTVPRIME,http://89.187.177.137/NDTVPRIME/index.m3u8?token=test
+NEWS24,http://89.187.177.137/NEWS24/index.m3u8?token=test
+SAMAY,http://89.187.177.137/SAMAY/index.m3u8?token=test
+SANSKAR_TV,http://89.187.177.137/SANSKAR_TV/index.m3u8?token=test
+sky_family,http://89.187.177.137/sky_family/index.m3u8?token=test
+SkyDisney,http://89.187.177.137/SkyDisney/index.m3u8?token=test
+SONYMAX,http://89.187.177.137/SONYMAX/index.m3u8?token=test
+TimesNow,http://89.187.177.137/TimesNow/index.m3u8?token=test
+zee_anmol_cinema,http://89.187.177.137/zee_anmol_cinema/index.m3u8?token=test
+zee_keralam,http://89.187.177.137/zee_keralam/index.m3u8?token=test
+ZeeClassic,http://89.187.177.137/ZeeClassic/index.m3u8?token=test
+9X M,http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+9X Jalwaa,http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
+pop pataka,https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+Dilse HUNGAMA Hits,https://live.hungama.com/linear/dil-se/playlist.m3u8
+hadippa,https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
+Kadak HUNGAMA Hits,https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+POP HUNGAMA Hits,https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+Boogle Bollywood,http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+sakkat,https://live.hungama.com/linear/sakkat/playlist.m3u8
+aajtaak hd,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+ABP News,https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+Zee News,https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+INDIA TV,https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+TV9 Bharatvarsh ,https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_360p/chunks.m3u8
+bharatsamachar,https://idvd.multitvsolution.com/idvo/bharatsamachar_540p.m3u8
+News nation,https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
+aajtaak,https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+News 24,https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+Aaj Tak Tej,https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+Rajyasabha,https://playhls.media.nic.in/live/rstv-360p/index.m3u8
+NDTV India,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+NDTV Profit,https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+Aljazeera News,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+
+S,https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
+MH ONE,https://livetv-channels.b-cdn.net/8027/chunklist0.m3u8
+MN Music,http://mntv.livebox.co.in/musichls/live.m3u8
+u,http://88.216.83.245/u/index.m3u8
+tv8,http://88.216.83.245/tv8/index.m3u8
+tv6,http://88.216.83.245/tv6/index.m3u8
+tv3,http://88.216.83.245/tv3/index.m3u8
+tv1,http://88.216.83.245/tv1/index.m3u8
+tnt,http://88.216.83.245/tnt/index.m3u8
+telekafe,http://88.216.83.245/telekafe/index.m3u8
+sport1,http://88.216.83.245/sport1/index.m3u8
+rtvi,http://88.216.83.245/rtvi/index.m3u8
+rtg,http://88.216.83.245/rtg/index.m3u8
+perec,http://88.216.83.245/perec/index.m3u8
+nauka,http://88.216.83.245/nauka/index.m3u8
+mtv,http://88.216.83.245/mtv/index.m3u8
+karusel,http://88.216.83.245/karusel/index.m3u8
+info,http://88.216.83.245/info/index.m3u8
+history,http://88.216.83.245/history/index.m3u8
+friday,http://88.216.83.245/friday/index.m3u8
+fox,http://88.216.83.245/fox/index.m3u8
+euronews,http://88.216.83.245/euronews/index.m3u8
+euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+dw,http://88.216.83.245/dw/index.m3u8
+domkino,http://88.216.83.245/domkino/index.m3u8
+kinomix,http://88.216.83.245/kinomix/index.m3u8
+disney,http://88.216.83.245/disney/index.m3u8
+discovery HD,http://88.216.83.245/discovery/index.m3u8
+ntvserial,http://88.216.83.245/ntvserial/index.m3u8
+bober,http://88.216.83.245/bober/index.m3u8
+tnt4 HD,http://88.216.83.245/tnt4/index.m3u8
+ntvpravo,http://88.216.83.245/ntvpravo/index.m3u8
+ntvstil,http://88.216.83.245/ntvstil/index.m3u8
+drive,http://88.216.83.245/drive/index.m3u8
+cnn,http://88.216.83.245/cnn/index.m3u8
+RuTV,http://88.216.83.245/RuTV/index.m3u8
+match,http://88.216.83.245/match/index.m3u8
+travel HD,http://88.216.83.245/travel/index.m3u8
+bokstv,http://88.216.83.245/bokstv/index.m3u8
+tntmusic,http://88.216.83.245/tntmusic/index.m3u8
+nicktoons,http://88.216.83.245/nicktoons/index.m3u8
+mirhd,http://88.216.83.245/mirhd/index.m3u8
+fauna,http://88.216.83.245/fauna/index.m3u8
+JALWA,https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
+Balle,https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
+mtv,https://1537084837.rsc.cdn77.org/1537084837/tracks-v2a1/mono.m3u8
+kids,https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_6.m3u8
+16054,http://23.237.10.66:16054
+sbc,https://cllive.itworkscdn.net/sbclive/token=nva=1674334306~dirs=1~hash=0d2a66559c71d9f04996b/sbc.smil/playlist_dvr.m3u8
+dmc,https://iptv.ipslow.com/tv182_www.elahmad.com_dmc/tracks-v1a1/mono.m3u8?token=e37998d8dee0ec179fb91c5ec322d1e45b9b4ae8-5a3189e566c112e7a266a9b915d65341-1674331016-1674320216
+dubai,http://www.elahmad.com/tv/m3u8/dubai_tv.m3u8?id=dubai_tv

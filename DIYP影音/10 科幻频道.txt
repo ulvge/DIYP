@@ -1,0 +1,14 @@
+爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+MM UFO HD,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/37BHXEX9NXLZER/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/13017/index.m3u8
+MM UFO,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13017/index.m3u8
+Oasis UFO and Aliens,https://pl01.spr24.net/20997/index.m3u8?token=QcwvKdNmZDqWbV
+
+NASA 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/15239/index.m3u8
+NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?

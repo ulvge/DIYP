@@ -1,0 +1,171 @@
+mekameleen tv,https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1264000.m3u8
+El-Sharq TV,https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+TRT,http://tv-trtarabi.live.trt.com.tr/master.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+trt1,https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=623d433esryn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
+TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
+TRT1,http://195.155.98.170:5858/play/a09j
+TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
+TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
+TRT1,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+HABER,https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+Çocuk,https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+Belgesel,https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+Avaz,https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+ANKA TVhttp://54.38.222.70:2020/anka-icin-test/fhoPny6SRC/5592
+1 : KACKAR TV,http://46.45.158.8:8096/bysid/51200
+0
+2 : BEYAZ TV HD,http://46.45.158.8:8096/bysid/51201
+1
+3 : TURKSAT_TEST,http://46.45.158.8:8096/bysid/51202
+2
+4 : DIYANET TV HD,http://46.45.158.8:8096/bysid/51203
+3
+5 : HABER GLOBAL,http://46.45.158.8:8096/bysid/51207
+4
+6 : UVI JEWELLERY,http://46.45.158.8:8096/bysid/51208
+5
+7 : POLIS RADYOSU,http://46.45.158.8:8096/bysid/51211
+6
+8 : DIYANET RADYO,http://46.45.158.8:8096/bysid/51212
+7
+9 : KUR AN RADYO,http://46.45.158.8:8096/bysid/51214
+8
+11 : RISALET RADYO,http://46.45.158.8:8096/bysid/51216
+10
+12 : KUPE FM,http://46.45.158.8:8096/bysid/51217
+11
+13 : RADYO TRIO,http://46.45.158.8:8096/bysid/51218
+12
+14 : RADYO SPOR,http://46.45.158.8:8096/bysid/51219
+13
+15 : RADYOBILIM,http://46.45.158.8:8096/bysid/51220
+14
+17 : ST ENDUSTRI RADYO,http://46.45.158.8:8096/bysid/51221
+16
+1 : KABE(CANLI) AL QURAN,http://46.45.158.8:8098/bysid/51000
+0
+2 : SAUDI SUNNAH,http://46.45.158.8:8098/bysid/51001
+1
+3 : SEMERKAND HD,http://46.45.158.8:8098/bysid/51006
+2
+4 : SEMERKAND WAY,http://46.45.158.8:8098/bysid/51007
+3
+5 : RUSSIA 24 TV,http://46.45.158.8:8098/bysid/51009
+4
+6 : RTR PLANETA,http://46.45.158.8:8098/bysid/51010
+5
+7 : AL ZAHRA TV,http://46.45.158.8:8098/bysid/51011
+6
+8 : SEMERKAND RADYO,http://46.45.158.8:8098/bysid/51013
+7
+9 : PAL NOSTALJI,http://46.45.158.8:8098/bysid/51015
+8
+TRT HABER,https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+TRT Çocuk,https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+TRT Diyanet,https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+TRT Belgesel,https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+TRT Avaz,https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+Habertürk TV,https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+24 TV,https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+TGRT Haber,https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+Haber Global,https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+Show TV,https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+Semerkand TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+Kanal 7,https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+Beyaz TV,https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+360 TV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+TRT World,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/15892
+TRT 1 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21608
+TRT 2 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21609
+TRT TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21610
+ATV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21611
+SHOW TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21612
+STAR TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21613
+KANAL D HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21614
+FOX TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21615
+TV8 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21616
+TV 8.5 FHD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21617
+TEVE 2 FHD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21618
+A2 FHD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21619
+BEYAZ TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21620
+KANAL 7 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21621
+TGRT EU FHD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21622
+360 TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21623
+SHOWMAX,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21624
+A HABER HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21625
+NTV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21626
+HABERTURK HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21627
+CNN TURK HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21628
+BLOOMBERG HT,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21629
+HALK TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21630
+ULUSAL TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21631
+KRT HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21632
+TV 100 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21633
+TGRT HABER HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21634
+TVNET HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21635
+ULKE TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21636
+AKiT TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21637
+TRT 4K,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21638
+24 TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21639
+YOL TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21640
+TELE 1,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21641
+BLOOMBERGHT TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21642
+TLC HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21643
+AKILLI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21644
+CARTOON NETWORK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21645
+DISNEY CHANNEL,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21646
+PEPEE TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21647
+NICKTOONS,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21648
+MINIKA COCUK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21649
+MINIKA GO,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21650
+TRT COCUK HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21651
+CEM TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21652
+KONTV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21653
+KANAL AVRUPA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21654
+DREAM TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21655
+KRAL POP,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21656
+KRAL TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21657
+POWERTURK FHD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21658
+MELTEM TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21659
+TRT AVAZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21660
+HABER 61,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21661
+TRABZON TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21662
+EGE TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21663
+SRT Sivas,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21664
+KOCAELI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21665
+HRT AKDENIZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21666
+24 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21667
+KANAL 26,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21668
+PAMUKKALE TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21669
+TV 264,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21670
+KANAL URFA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21671
+DEHA TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21672
+EKO TK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21673
+AV TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21674
+TV 4 HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21675
+Can TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21676
+TV NET HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21677
+KON TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21678
+Kayseri TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21679
+TVEM,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21680
+Kanal Avrupa,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21681
+CIFTCI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21682
+KENT TK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21683
+Koy TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21684
+ANADOLU DERNEK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21685
+YILDIZ EN TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21686
+Cay TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21687
+KADIRGA TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21688
+MAVI KARADENIZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21689
+TRT DIYANET,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21690
+SEMERKAND TV HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21691
+Lalegul Tv,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21692
+RUMELI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21693
+Mesaj TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21694
+DOST TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21695
+EURO STAR,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21696
+SHOW TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21697
+ATV AVRUPA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21698
+EURO D,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21699

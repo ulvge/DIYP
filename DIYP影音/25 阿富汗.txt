@@ -1,0 +1,4 @@
+Afghanistan International,https://hls.afintl.com/hls/stream.m3u8
+rta,https://hls.rta.live/hls/stream.m3u8
+rtasport,https://hls.rtasport.live/hls/stream.m3u8
+SHARQ,https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/chunks.m3u8

@@ -1,0 +1,213 @@
+SBT,http://185.150.190.225:16170
+ATV,https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+Record News,https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+Record News,http://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8
+Universal,http://208.115.225.174:14128
+WB TV,http://208.115.225.174:14132
+Telecine Pipoca,http://51.83.238.223:16763/
+Universal Channel,http://51.83.238.223:16883/
+Disney Channel,http://51.83.238.223:16274/
+AXN,http://51.83.238.223:16941/
+HBO,http://51.83.238.223:16045/
+globosp hd,http://hls1.sua.tv/live/globosphd/s.m3u8
+AXN,http://201.139.174.68/play/a008/index.m3u8
+C9N,http://201.139.174.68/play/a012/index.m3u8
+Cinemax,http://201.139.174.68/play/a006/index.m3u8
+Claro Cinema,http://201.139.174.68/play/a00h/index.m3u8
+Discovery Turbo,http://201.139.174.68/play/a00j/index.m3u8
+ESPN 3,http://201.139.174.68/play/a00l/index.m3u8
+ESPN CO,http://201.139.174.68/play/a013/index.m3u8
+Esne TV,http://201.139.174.68/play/a00k/index.m3u8
+FX,http://201.139.174.68/play/a00a/index.m3u8
+HBO,http://201.139.174.68/play/a005/index.m3u8
+La Tele,http://201.139.174.68/play/a00n/index.m3u8
+NPY,http://201.139.174.68/play/a014/index.m3u8
+Nick Jr,http://201.139.174.68/play/a00i/index.m3u8
+PARAVISION,http://201.139.174.68/play/a011/index.m3u8
+SURTV,http://201.139.174.68/play/a015/index.m3u8
+Sony,http://201.139.174.68/play/a007/index.m3u8
+Space,http://201.139.174.68/play/a009/index.m3u8
+TV CAMARA,http://201.139.174.68/play/a00q/index.m3u8
+Telefe,http://201.139.174.68/play/a00f/index.m3u8
+Unicanal,http://201.139.174.68/play/a00g/index.m3u8
+Globo MG,http://185.150.190.225:16263/
+A&E,http://187.95.95.247/AE/index.m3u8
+BDMG,http://208.115.225.174:14263
+Prime Box,http://187.95.95.247/Prime/index.m3u8
+Star Channel,http://187.95.95.247/Star/index.m3u8
+Cinecanal,http://187.95.95.247/cinecanal/index.m3u8
+paramount,https://cdn2.connectbr.com.br/paramount/index.m3u8
+Nick,http://187.95.95.247/Nickelodeon/index.m3u8
+Paramount,http://187.95.95.247/paramount/index.m3u8
+History,http://187.95.95.247/History/index.m3u8
+H2,http://187.95.95.247/h2/index.m3u8
+Arte,http://187.95.95.247/ArteHD/manifest.m3u8
+Lifetime,http://187.95.95.247/lifetime/manifest.m3u8
+Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
+Band News,http://187.95.95.247/Band-News/mono.m3u8
+History,http://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
+History,http://cdn2.connectbr.com.br/History/video.m3u8
+BandSports,http://cdn2.connectbr.com.br:80/Band-Sports/tracks-v1a1/mono.m3u8
+Film & Arts HD,http://168.197.196.98:9981/stream/channelid/781436987?profile=pass
+Europa Europa,http://168.197.196.98:9981/stream/channelid/918671342?profile=pass
+a&ehttp://187.95.95.247/AE/index.m3u8
+h2,http://187.95.95.247/h2/index.m3u8
+A&E HD,http://38.41.8.1:8000/play/a006
+AE Mundohttp://38.41.8.1:8000/play/a07v
+AMC ,http://38.41.8.1:8000/play/a01s
+AXN HD,http://38.41.8.1:8000/play/a009
+ANIMAL PLANET SD,http://199.127.60.83:16192
+CARTOONITO HD,http://199.127.60.83:14682
+CARTOONNETWORK HD,http://199.127.60.83:14687/
+FX HD,http://199.127.60.83:16043/
+A&E HD,http://199.127.60.83:16002/
+AMC,http://199.127.60.83:16004
+GLOBO,http://199.127.60.83:16020
+SBT HD,http://209.222.97.92:16173
+Globo News HD,http://209.222.97.92:16436
+RedeVIVA,http://185.150.190.225:14071
+FashionTV,http://185.150.190.225:14961
+Globo HD,http://15.235.55.115:14107
+SBT HD,http://199.127.60.83:16170
+Animal Planet HD,http://38.41.8.1:8000/play/a023
+Cinecanal HD,http://38.41.8.1:8000/play/a01r
+Cinemax HD,http://38.41.8.1:8000/play/a00y
+Discovery Channel,http://38.41.8.1:8000/play/a07l
+Discovery H&H HD,http://38.41.8.1:8000/play/a017
+Discovery HD,http://38.41.8.1:8000/play/a02y
+Discovery Theater HD,http://38.41.8.1:8000/play/a018
+Discovery Turbo,http://38.41.8.1:8000/play/a068
+FX HD,http://38.41.8.1:8000/play/a01h
+History Channel HD,http://38.41.8.1:8000/play/a005
+Nat Geo HD,http://38.41.8.1:8000/play/a01p
+PlayBoy HDhttp://38.41.8.1:8000/play/a01k
+STAR CHANNEL HD a,http://38.41.8.1:8000/play/a00h
+STAR CHANNEL HD b,http://38.41.8.1:8000/play/a019
+STAR CHANNEL HD c,http://38.41.8.1:8000/play/a02r
+STAR CHANNEL HD d,http://38.41.8.1:8000/play/a02s
+Sony HD,http://38.41.8.1:8000/play/a007
+Space HD,http://38.41.8.1:8000/play/a00a
+Studio Universal HD,http://38.41.8.1:8000/play/a01y
+Sun Channel HD,http://38.41.8.1:8000/play/a015
+SyFy,http://38.41.8.1:8000/play/a057
+TBS,http://38.41.8.1:8000/play/a074
+TCM,http://38.41.8.1:8000/play/a04x
+TNT HD,http://38.41.8.1:8000/play/a00s
+UNIVERSAL CHANNEL HD,http://38.41.8.1:8000/play/a01a
+Warner Channel HD,http://38.41.8.1:8000/play/a008
+Universal TV,http://208.115.225.174:14128
+Warner,http://208.115.225.174:14132
+HBO,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO Signature,http://208.115.225.174:14160
+HBO,http://208.115.225.174:14165
+SBT,http://208.115.225.174:14170
+SBT1,http://208.115.225.174:14173
+SBT2,http://208.115.225.174:14176
+
+ATV,http://190.116.90.43:8000/play/a005
+America TV HD,http://190.116.90.43:8000/play/a010
+Animal Planet HD,http://190.116.90.43:8000/play/a00q
+Canal N,http://190.116.90.43:8000/play/a004
+Cartoon Network HD,http://190.116.90.43:8000/play/a00n
+Discovery HD,http://190.116.90.43:8000/play/a00t
+Discovery Kids HD,http://190.116.90.43:8000/play/a00f
+Discovery Theater HD,http://190.116.90.43:8000/play/a00g
+Disney Junior,http://190.116.90.43:8000/play/a00b
+ESPN 4 HD,http://190.116.90.43:8000/play/a00h
+ESPN HD,http://190.116.90.43:8000/play/a00z
+FOX Sports 2 HD,http://190.116.90.43:8000/play/a00i
+FX HD,http://190.116.90.43:8000/play/a00j
+Fox Sports 1 HD,http://190.116.90.43:8000/play/a00u
+GLOBAL,http://190.116.90.43:8000/play/a006
+GOLPERU HD,http://190.116.90.43:8000/play/a012
+Golden HD,http://190.116.90.43:8000/play/a00y
+HBO,http://190.116.90.43:8000/play/a007
+HBO XTREME HD,http://190.116.90.43:8000/play/a00w
+HBO2,http://190.116.90.43:8000/play/a008
+History 2 HD,http://190.116.90.43:8000/play/a00v
+History Channel,http://190.116.90.43:8000/play/a00c
+Las Estrellas HD,http://190.116.90.43:8000/play/a00s
+Latina HD,http://190.116.90.43:8000/play/a011
+Movistar Deportes HD,http://190.116.90.43:8000/play/a00x
+Panamericana,http://190.116.90.43:8000/play/a002
+Paramount HD,http://190.116.90.43:8000/play/a00o
+RPP,http://190.116.90.43:8000/play/a00a
+STAR CHANNEL HD,http://190.116.90.43:8000/play/a016
+Studio Universal HD,http://190.116.90.43:8000/play/a00p
+TV PERU,http://190.116.90.43:8000/play/a003
+Telenovelas,http://190.116.90.43:8000/play/a00d
+La Red,http://45.236.175.2:1001
+TVN,http://45.236.175.2:1002
+CHV,http://45.236.175.2:1004
+CANAL 13,http://45.236.175.2:1005
+Mega,http://45.236.175.2:1003
+Cartoon Network,http://45.236.175.2:1011
+Nickelodeon,http://45.236.175.2:1012
+24 HORAS,http://45.236.175.2:1007
+CNN Chile,http://45.236.175.2:1008
+CNN Espanol,http://45.236.175.2:1009
+Disney Channel,http://45.236.175.2:1010
+Nick Jr,http://45.236.175.2:1013
+Discovery Kids,http://45.236.175.2:1014
+Disney Jr,http://45.236.175.2:1015
+HBO 2,http://45.236.175.2:1022
+Studio Universal,http://45.236.175.2:1023
+Universal,http://45.236.175.2:1018
+TCM,http://45.236.175.2:1020
+Space,http://45.236.175.2:1026
+STAR CHANNEL,http://45.236.175.2:1027
+I-Sat,http://45.236.175.2:1019
+Cinemax,http://45.236.175.2:1025
+Cinecanal,http://45.236.175.2:1028
+HBO Family,http://45.236.175.2:1017
+Warner,http://45.236.175.2:1021
+HBO XTREME SD,http://45.236.175.2:1030
+HBO,http://45.236.175.2:1031
+TNT,http://45.236.175.2:1032
+ESPN 4,http://45.236.175.2:1035
+Nat Geo,http://45.236.175.2:1044
+Fox Sports 1,http://45.236.175.2:1040
+TNT SPORTS 2,http://45.236.175.2:1036
+Fox Sports 3,http://45.236.175.2:1034
+ESPN 2,http://45.236.175.2:1039
+TNT SPORTS 3,http://45.236.175.2:1037
+TLC,http://45.236.175.2:1042
+HomeandHealth,http://45.236.175.2:1043
+Discovery ID,http://45.236.175.2:1046
+Animal Planet,http://45.236.175.2:1045
+E Entertainment,http://45.236.175.2:1047
+History Channel,http://45.236.175.2:1048
+AE Mundo,http://45.236.175.2:1049
+Telemundo,http://45.236.175.2:1051
+Discovery Channel,http://45.236.175.2:1050
+Canal Estrellas,http://45.236.175.2:1052
+RCN Novelas,http://45.236.175.2:1053
+MTV,http://45.236.175.2:1055
+ViaX,http://45.236.175.2:1054
+HBO Plus,http://45.236.175.2:1057
+Zona Latina,http://45.236.175.2:1056
+ESPN 4,http://45.236.175.2:1058
+Fox Sports 2,http://45.236.175.2:1059
+TLC,http://45.236.175.2:1060
+ESPN,http://45.236.175.2:1061
+Animal Planet,http://208.115.225.174:14192
+BDMG,http://208.115.225.174:14263
+Formula 1,http://208.115.225.174:14420
+Formula 1,http://208.115.225.174:14428
+Premiere,http://208.115.225.174:14460
+Premiere,http://208.115.225.174:14468
+ESPN 4,http://208.115.225.174:14510
+TV Globo,http://208.115.225.174:14020
+HBO Family,http://208.115.225.174:14144
+HBO Plus,http://208.115.225.174:14152
+HBO Pop,http://208.115.225.174:14156
+TV Globo,http://208.115.225.174:14259
+TV Globo,http://208.115.225.174:14271
+Premiere,http://208.115.225.174:14464
+Premiere,http://208.115.225.174:14472
+SBT,http://208.115.225.174:14476
+ESPN Vivo,http://208.115.225.174:14754
+Fox Sports 2,http://15.235.10.31:14326
+Fox Sports 2,http://15.235.10.31:14329

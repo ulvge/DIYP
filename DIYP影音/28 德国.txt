@@ -1,0 +1,7 @@
+mytvplus,https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+ARD,http://mcdn.daserste.de/daserste/de/master.m3u8
+ARD Alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+BR Nord,https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+BR Süd,https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+
+

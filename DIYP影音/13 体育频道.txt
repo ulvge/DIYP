@@ -1,0 +1,48 @@
+DAZN F1,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1650
+MOVISTAR F1,http://4ksuper.live:80/Patricia/Patricia123/317783
+NBA FULL HDhttp://62.210.220.21:7777/play/a01g
+WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+NOW 633,http://abc123.digital:8080/jesselewis39562@yahoo.com/c8PdnKX569/425327
+sps,http://202.21.104.6:88/sps-plus/index.m3u8
+SKY SPORTS F1 HD,http://4ksuper.live:80/Patricia/Patricia123/317782
+SKY SPORTS F1 HD DE,http://4ksuper.live:80/Patricia/Patricia123/317780
+SPORTTV2,http://15.204.217.195/SPORTTV2/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top?FIFA世界杯WorldCup
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?世界杯WorldCup
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+劲爆体育,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
+劲爆体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+超级体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+央视台球,http://jltpc.x3322.net:9901/tsfile/live/1035_1.m3u8?key=txiptv
+央视台球,http://angtv.cc/jd/gdlz.php?id=ystq
+风云足球,http://jltpc.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv
+魅力足球,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+深圳体育,http://113.117.74.28:8081/hls/70/index.m3u8
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?
+咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+咪咕体育4k,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8?世界杯WorldCup
+纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8
+TDM SPORT MACAU,http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+Dazn F1,http://makeev.cbilant.com/iptv/L5X3Z2R8237RKM/6071/index.m3u8
+http://8fdcf128.cbilant.com/iptv/UPCF5W5XELFMAR/6071/index.m3u8
+DAZN 1,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19042/index.m3u8
+DAZN2,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19043/index.m3u8
+F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+TNT SPORTS,http://181.78.208.254:8010/play/a008/index.m3u8
+INFINITV,http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
+b1b,https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
+deportv,https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+ESPN,http://51.83.238.223:16515/
+NBA TV,http://146.59.80.96:10120/play/a009
+ESPN 4,http://208.115.225.174:14510
+ESPN Vivo,http://208.115.225.174:14754
+ESPN,http://181.204.21.164:8000/play/a09h/index.m3u8
+ESPN 2,http://181.204.21.164:8000/play/a09i/index.m3u8
+IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+12 TV Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8

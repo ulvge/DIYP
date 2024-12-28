@@ -1,0 +1,5 @@
+TVR2,http://94.156.33.91/TVR2-Romania/index.m3u8
+TVR1 HD,http://94.156.33.91/TVR1-Romania/index.m3u8
+TVR3,http://94.156.33.91/TVR3-Romania/index.m3u8
+TVRInternational HD,http://94.156.33.91/TVRInternational-Romania/index.m3u8
+ViasatHistory,http://94.156.33.91/ViasatHistory-Romania/index.m3u8

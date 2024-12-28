@@ -1,0 +1,12 @@
+MNB,https://live.mnb.mn/live/mn2.stream/playlist.m3u8
+MNB Family,https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
+MNB Sport,https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+MNB WORLD,https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
+CCTV13,http://110.19.106.198:9981/stream/channelid/2015043630?ticket=5640BEAFAC83743561B0AB0F3D4FE030E7EE9FF6&profile=pass
+one综合,http://110.19.106.198:9981/stream/channelid/2015043630?ticket=5640BEAFAC83743561B0AB0F3D4FE030E7EE9FF6&profile=pass
+TV9,http://110.19.106.198:9981/stream/channelid/483196788?ticket=
+NTV,http://110.19.106.198:9981/stream/channelid/147726413?ticket=
+MNB MM,http://110.19.106.198:9981/stream/channelid/1329054133?ticket=
+MNB,http://110.19.106.198:9981/stream/channelid/1665103169?ticket=
+Angel TV,http://110.19.106.198:9981/stream/channelid/283509486?ticket=

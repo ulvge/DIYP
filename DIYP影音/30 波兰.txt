@@ -1,0 +1,34 @@
+TVP,http://78.129.193.20/tsstreamer/TVP_SD.ts
+VOX,http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
+TVPSeriale,https://cdn-main.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
+TVT Zgorzelec,http://gargoyle.tomkow.pl/hls/tvt.m3u8
+DZ,http://146.59.70.61:8880/153/token=0e318668ba9b1d41dd3333/video.m3u8
+TV Torun HD,http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+TV Toruń (1080p),http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+TV Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+Telewizja Toruń,http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+Sfera TV (480p),http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+KINO POLSKA HD,http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460836
+VOX,http://83.238.183.196:1000/udp/239.192.9.3:1234
+VOX Music TV,http://146.59.54.163:80/VOX-Music-TV/mono.m3u8
+Eska TV Extra HD,http://146.59.54.163:80/Eska-TV-Extra/mono.m3u8
+TVP1HD,http://178.219.128.68:64889/TVP1HD
+DOMOHD,http://178.219.128.68:64889/DOMOHD
+TVP3 Bialystok,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+TVP3 Bydgoszcz,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+TVP3 Gdansk,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+TVP3 Gorzow Wielkopolski,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+TVP3 Info,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+TVP3 Katowice,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+TVP3 Kielce,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+TVP3 Krakow,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+TVP3 Lodz,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+TVP3 Lublin,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+TVP3 Olsztyn,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+TVP3 Opole,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+TVP3 Poznan,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+TVP3 Rzeszow,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+TVP3 Szczecin,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+TVP3 Warszawa,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+TVP3 Wroclaw,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+Eska TV HD,http://146.59.54.163:80/Eska-TV/mono.m3u8

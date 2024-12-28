@@ -1,0 +1,188 @@
+FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+CNN News,https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+好莱坞制造,https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+ESTV,https://estv-rakuten-samsung.amagi.tv/playlist.m3u8?utm_medium=social&utm_source=heylink.me
+ABC NEWS,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=174535&extension=ts&play_token=Xordb9Yrqd
+美国中文http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
+CNN USA,http://38.44.109.41:8888/play/a00d
+AFV family,https://futuretoday-afv-family-2-be.samsung.wurl.tv:443/1200.m3u8
+AZ,http://live.azstartv.com:80/azstar/smil:azstar.smil/chunklist_w1698552844_b800000_slen.m3u8
+Action MAX,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=174538&extension=ts&play_token=tcXAKx88Rl
+A2iNaija,https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+A2iMusic,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+TVS Classic Movies,https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+TVS Hollywood History,https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+Wu Tang Collection,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XMKDbHdQEJSUe7aX9xvq
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+武当,https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
+武当,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+武当1,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
+武当2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
+影片,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4032
+Bounce,http://72.46.118.193/Bounce/index.m3u8
+Grit,http://72.46.118.193/Grit/index.m3u8
+Laff,http://72.46.118.193/Laff/index.m3u8
+Defy,http://72.46.118.193/Defy/index.m3u8
+Court,http://72.46.118.193/Court/index.m3u8
+Newsy,http://72.46.118.193/Newsy/index.m3u8
+UTV,http://173.225.32.123/UTV-2362/index.m3u8
+KELO,http://173.225.32.123/KELO-2361/index.m3u8
+CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+Bravo,http://170.254.18.106/BRAVO/index.m3u8
+OAN,https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=56
+UTV,http://173.225.32.123/UTV-2362/index.m3u8
+KELO,http://173.225.32.123/KELO-2361/index.m3u8
+CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+Logo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/952
+Me TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+NASA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1610
+Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+Nat Geo Wild,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
+NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+Outdoor Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/292
+PBS KIDS,http://streamsy.online:2999/coachj88/N93DPKS9pJ/227
+Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+Showtime,http://streamsy.online:2999/coachj88/N93DPKS9pJ/223
+Showtime Women,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1251
+SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+Start TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+The Weather Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+Universal Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+Showtime Beyond,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1619
+WWE,http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
+ABC Phoenix,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1233
+Mega TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/124
+Vegas Golden Knights,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77848
+Washington Capitals,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77708
+Anaheim Ducks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77713
+Arizona Coyotes,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77712
+Arizona Diamondbacks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77577
+Boston Bruins,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77707
+Chicago Blackhawks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77843
+Chicago White Sox ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77579
+Colorado Avalanche ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77844
+Columbus Blue Jackets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77581
+Dallas Star ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77847
+Detroit Red Wings,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77846
+Detroit Tigers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77711
+Florida Panthers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77845
+Miami Marlins,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77710
+Milwaukee Brewers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77580
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 16 Phoenix Suns ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51219
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+
+3ABN,https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+3ABN,https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+Kids Network (3ABN),https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+International (3ABN),https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+Latino (3ABN),https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+Praise Him Music Network (3ABN),https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
+30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+30A Music,https://30a-tv.com/music.m3u8
+30A Sidewalks,https://30a-tv.com/sidewalks.m3u8
+30A The Beach Show,https://30a-tv.com/beachy.m3u8
+ACTV,https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8
+Aghapy Kids,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+Akaku 53 (Hawaii),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+Akaku 54 (Hawaii) (1080p)
+,https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+Akaku 55 (Hawaii) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Cloudflare TV (720p),https://cloudflare.tv/hls/live.m3u8
+MahdiTV (1080p),https://stream.al-mahdi.tv/hls/1234.m3u8
+Srv_1 HD,http://95.67.12.82:9061
+TRACE URBAN INTER HD,http://95.67.12.82:9068
+TRACE SPORTS INTER HD,http://95.67.12.82:9067
+Water Bear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Life,https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+Poker T,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+Russia Today,http://69.64.57.208:8080/russiatoday/playlist.m3u8
+Sky News Australia,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+Spotlight Redbox,https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+TASTEMADE,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+Xplore,http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+ZOOMOO,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+rakuten tv,https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+NASA,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+NASA,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+myTV San Antonio TX (KCWX-TV) (720p),http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+实验,https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
+电影01,https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
+30,https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
+少儿,https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+少儿0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
+少儿1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+少儿2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+少儿3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+少儿4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
+少儿5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
+少儿6,https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
+少儿7,https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
+少儿8,https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
+少儿9,https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
+KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
+美食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
+美食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
+娱乐,https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
+科幻电影,https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+48,https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
+53,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+74,https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
+76,https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
+102,https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+154,https://stream.ads.ottera.tv/playlist.m3u8?network_id=154
+181,https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
+电影0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
+Canela Clasicos,https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
+电影4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
+电影5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
+动漫,https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
